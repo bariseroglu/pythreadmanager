@@ -1,4 +1,5 @@
 # pythreadmanager
+A minimal thread management package for python
 
 ## Installation
 
