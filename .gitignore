@@ -1,2 +1,4 @@
+build
+dist
+pythreadmanager.egg-info
 main.py
-setup.py
